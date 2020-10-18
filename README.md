@@ -1,6 +1,7 @@
 # Backtesting my current US stocks portfolio
 The whole project is conducted under R, and the library "tidyquant" is heavily utilized.<br>
-For a quick starting guide, please refer to https://cran.r-project.org/web/packages/tidyquant/vignettes/TQ00-introduction-to-tidyquant.html <br>
+For a quick starting guide, please refer to the vignette written by Matt Dancho<br>
+https://cran.r-project.org/web/packages/tidyquant/vignettes/TQ00-introduction-to-tidyquant.html<br>
 
 This backtest serves as a regular risk monitoring procedure.<br>
 As a high-level overview, below are the main steps for the backtest procedure:<br>
